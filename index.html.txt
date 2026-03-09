@@ -1,0 +1,1 @@
+<iframe src="https://chat.lindy.ai/embedded/lindyEmbed/edadd402-3c10-4791-9880-5e30169c136c" width="100%" height="100%" style="border: none" title="Lindy Embed"></iframe>
